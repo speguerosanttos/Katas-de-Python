@@ -16,6 +16,7 @@ Este proyecto está desarrollado para Python 3.6+. Si no tienes Python instalado
   [https://www.python.org/downloads/](https://www.python.org/downloads/)  
  
 Instalación de Visual Studio Code (VS Code)
+
 Visual Studio Code es un editor de código ligero, gratuito y muy popular para desarrollo en Python.
 
 1. Descargar VS Code
