@@ -14,42 +14,25 @@ En este proyecto hemos tenido que aplicar los conocimientos aprendidos en el mó
 Este proyecto está desarrollado para Python 3.6+. Si no tienes Python instalado, puedes descargarlo desde:  
   [https://www.python.org/downloads/](https://www.python.org/downloads/)  
  
-Para verificar tu versión instalada, ejecuta en la terminal o consola:  
-  ```bash
-  python --version o python3 --version
-
-Gestor de paquetes pip
-Pip normalmente se instala junto con Python, pero puedes verificarlo con:
-pip --version
-#Si no lo tienes instalado, sigue la guía oficial para instalar pip:
-https://pip.pypa.io/en/stable/installation/
-
 Instalación de Visual Studio Code (VS Code)
 Visual Studio Code es un editor de código ligero, gratuito y muy popular para desarrollo en Python.
 
-Descargar VS Code
+1. Descargar VS Code
 Descarga el instalador oficial desde:
-https://code.visualstudio.com/
+[https://code.visualstudio.com/]
 
-Instalar VS Code
+2. Instalar VS Code
 Sigue las instrucciones del instalador según tu sistema operativo (Windows, macOS o Linux).
 
-Configurar la extensión de Python
+3. Configurar la extensión de Python
 Una vez instalado VS Code:
-
-- Abre VS Code.
-- Ve a la pestaña de extensiones (icono de cuadritos en la barra lateral o usa Ctrl+Shift+X).
-- Busca “Python” y selecciona la extensión oficial de Microsoft.
-- Haz clic en “Instalar”.
-- Seleccionar intérprete de Python
-- Abre la paleta de comandos (Ctrl+Shift+P o Cmd+Shift+P en macOS).
-- Escribe Python: Select Interpreter y selecciona la versión de Python instalada en tu sistema o tu entorno virtual.
-
-#Terminal integrada
-VS Code incluye una terminal integrada para ejecutar comandos sin salir del editor:
-- Para abrirla, usa `Ctrl+`` (la tecla de tilde, justo debajo de Esc).
-- Aquí puedes activar tu entorno virtual y ejecutar tus scripts Python.
-
+   3.1 Abre VS Code.
+   3.2 Ve a la pestaña de extensiones (icono de cuadritos en la barra lateral o usa Ctrl+Shift+X).
+   3.3 Busca “Python” y selecciona la extensión oficial de Microsoft.
+   3.4 Haz clic en “Instalar”.
+   3.5 Seleccionar intérprete de Python
+   3.6 Abre la paleta de comandos (Ctrl+Shift+P o Cmd+Shift+P en macOS).
+   3.7 Escribe Python: Select Interpreter y selecciona la versión de Python instalada en tu sistema o tu entorno virtual.
 
 ✒ Autores
 
