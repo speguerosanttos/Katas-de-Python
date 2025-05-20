@@ -1,16 +1,20 @@
 📝PROYECTO LÓGICA: KATAS DE PYTHON
 
+
 📖 Descripción
+
 
 En este proyecto hemos tenido que aplicar los conocimientos aprendidos en el módulo de Python. Hemos trabajado con el editor de Visual Studio Code y con la extensión de Python para ejecutar código Python dentro del editor. El objetivo del proyecto era realizar todas los enunciados planteadas en un documento PDF.
 
 🗂 Estructura del Proyecto
+
 
 ├── README.md #Descripción del proyecto
 
 ├── katas_python.py #Archivo con los ejercicios resueltos. 
 
 🛠 Instalación y Requisitos
+
 
 Este proyecto está desarrollado para Python 3.6+. Si no tienes Python instalado, puedes descargarlo desde:  
   [https://www.python.org/downloads/](https://www.python.org/downloads/)  
@@ -45,5 +49,6 @@ Una vez instalado VS Code:
    
 
 ✒ Autores
+
 
 Sara Peguero Santos
