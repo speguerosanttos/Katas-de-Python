@@ -11,6 +11,7 @@ En este proyecto hemos tenido que aplicar los conocimientos aprendidos en el mó
 ├── katas_python.py #Archivo con los ejercicios resueltos. 
 
 🛠 Instalación y Requisitos
+
 Este proyecto está desarrollado para Python 3.6+. Si no tienes Python instalado, puedes descargarlo desde:  
   [https://www.python.org/downloads/](https://www.python.org/downloads/)  
  
