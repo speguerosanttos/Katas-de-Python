@@ -28,13 +28,21 @@ Sigue las instrucciones del instalador según tu sistema operativo (Windows, mac
 
 3. Configurar la extensión de Python
 Una vez instalado VS Code:
+
    3.1 Abre VS Code.
+   
    3.2 Ve a la pestaña de extensiones (icono de cuadritos en la barra lateral o usa Ctrl+Shift+X).
+   
    3.3 Busca “Python” y selecciona la extensión oficial de Microsoft.
+   
    3.4 Haz clic en “Instalar”.
+   
    3.5 Seleccionar intérprete de Python
+   
    3.6 Abre la paleta de comandos (Ctrl+Shift+P o Cmd+Shift+P en macOS).
+   
    3.7 Escribe Python: Select Interpreter y selecciona la versión de Python instalada en tu sistema o tu entorno virtual.
+   
 
 ✒ Autores
 
