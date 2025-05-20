@@ -14,27 +14,27 @@ En este proyecto hemos tenido que aplicar los conocimientos aprendidos en el mó
 Este proyecto está desarrollado para Python 3.6+. Si no tienes Python instalado, puedes descargarlo desde:  
   [https://www.python.org/downloads/](https://www.python.org/downloads/)  
  
- · Para verificar tu versión instalada, ejecuta en la terminal o consola:  
+Para verificar tu versión instalada, ejecuta en la terminal o consola:  
   ```bash
   python --version o python3 --version
 
-· Gestor de paquetes pip
+Gestor de paquetes pip
 Pip normalmente se instala junto con Python, pero puedes verificarlo con:
 pip --version
 #Si no lo tienes instalado, sigue la guía oficial para instalar pip:
 https://pip.pypa.io/en/stable/installation/
 
-· Instalación de Visual Studio Code (VS Code)
+Instalación de Visual Studio Code (VS Code)
 Visual Studio Code es un editor de código ligero, gratuito y muy popular para desarrollo en Python.
 
-· Descargar VS Code
+Descargar VS Code
 Descarga el instalador oficial desde:
 https://code.visualstudio.com/
 
-· Instalar VS Code
+Instalar VS Code
 Sigue las instrucciones del instalador según tu sistema operativo (Windows, macOS o Linux).
 
-· Configurar la extensión de Python
+Configurar la extensión de Python
 Una vez instalado VS Code:
 
 - Abre VS Code.
