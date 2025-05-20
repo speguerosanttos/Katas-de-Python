@@ -50,6 +50,7 @@ VS Code incluye una terminal integrada para ejecutar comandos sin salir del edit
 - Para abrirla, usa `Ctrl+`` (la tecla de tilde, justo debajo de Esc).
 - Aquí puedes activar tu entorno virtual y ejecutar tus scripts Python.
 
+
 ✒ Autores
 
 Sara Peguero Santos
